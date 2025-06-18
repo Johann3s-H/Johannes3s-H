@@ -15,7 +15,7 @@ These are my preferred programming languages, frameworks, and tools. I also have
 
 ## 🖥️ Operating Systems
 
-I've worked with many operating systems—Linux is my main focus, but I also have hands-on experience with Windows, macOS, BSD and AIX:
+I've worked with many operating systems. Linux is my main focus, but I also have hands-on experience with Windows, macOS, BSD and AIX:
 
 ![My OS](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,ubuntu,redhat,android,raspberrypi,windows,apple,bsd)
 
